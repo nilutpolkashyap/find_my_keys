@@ -8,8 +8,6 @@ BluetoothSerial bluetooth;
 
 extern const unsigned char previewR[120264];  
 
-
-
 #define CONFIG_I2S_BCK_PIN 12 
 #define CONFIG_I2S_LRCK_PIN 0
 #define CONFIG_I2S_DATA_PIN 2
